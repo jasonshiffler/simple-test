@@ -1,0 +1,1 @@
+Simple Junit 5 demonstration in Maven project format.
